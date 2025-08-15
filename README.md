@@ -95,4 +95,3 @@ ACTION: Seek PCR test + strict isolation
 This project is open-source and available for educational use.
 
 Made with ❤️ by [dulagudeta](https://github.com/dulagudeta)  
-Feel free to tweak this for your needs!
