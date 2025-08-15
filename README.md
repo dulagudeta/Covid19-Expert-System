@@ -92,7 +92,7 @@ ACTION: Seek PCR test + strict isolation
 
 ## License
 
-This project is open-source and available for educational use. For commercial applications, please contact the developer.
+This project is open-source and available for educational use.
 
 Made with ❤️ by [dulagudeta](https://github.com/dulagudeta)  
 Feel free to tweak this for your needs!
